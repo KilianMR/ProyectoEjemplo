@@ -77,12 +77,12 @@ h1{
 
 .btn {
 	padding: 10px 20px;
-	border-color: #C0B31E; 
 	background-color: blue;
 	border-radius: 5px;
 	color: black;
 	display: inline-block;
 	transition: 0.3s;
+	border: 2px solid #C0B31E;
 }
 
 .btn:hover{
